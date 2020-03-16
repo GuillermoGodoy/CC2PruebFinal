@@ -1,0 +1,10 @@
+Guillermo Godoy \ 201391001-7
+
+librerias:
+-numpy
+-scipy
+-sys
+-matplotlib.pyplot
+-mpl_toolkits.mplot3d
+-matplotlib.animation
+-ipywidgets

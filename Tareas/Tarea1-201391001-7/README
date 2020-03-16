@@ -1,0 +1,12 @@
+Guillermo Godoy \ 201391001-7
+
+librerias:
+-numpy
+-scipy
+-sys
+-scipy.sparse
+-time
+-datetime
+scipy.sparse import lil_matrix
+scipy.sparse import dok_matrix
+scipy.sparse import csr_matrix
